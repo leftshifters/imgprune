@@ -1,0 +1,4 @@
+imgprune
+========
+
+Remove unused images
